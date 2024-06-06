@@ -3,11 +3,5 @@ openai==0.28
 python-dotenv
 fastapi
 uvicorn
-opencv-python-headless
-numpy
-python-dotenv
-python-multipart
-pillow
-doctr
-pandas
+apscheduler
 pymongo
